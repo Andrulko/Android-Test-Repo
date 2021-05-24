@@ -2,4 +2,5 @@
 <resources>
   <string name="button_new">REQUEST DEMO</string>
   <string name="hello">HELLO WORLD</string>
+  <string name="some_key">NEW TEXT</string>
 </resources>
