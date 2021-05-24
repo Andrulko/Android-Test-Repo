@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new">TRANSLATION A</string>
+  <string name="hello">TRANSLATION B</string>
+  <string name="some_key">TRANSLATION C</string>
+</resources>
