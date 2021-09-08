@@ -1,7 +1,7 @@
 files:
   - source: /**/values/*.xml
     translation: /**/values-%two_letters_code%/%original_file_name%
-    language_mapping:
+    languages_mapping:
       two_letters_code:
         es-ES: es-es-es
   - source: /**/values/*.xliff
