@@ -5,4 +5,5 @@
   <string name="some_key">NEW TEXT</string>
   <string name="title_khatabook" comment="khatabook Title on the top of the screen" maxLength="10">Khatabook %s</string>
   <string name="actions_and_modals__actions_and_modals" comment="actions_and_modals">Actions and Modals</string>
+  <string name="neqweqweqw">New line</string>
 </resources>
