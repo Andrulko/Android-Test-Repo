@@ -27,16 +27,16 @@ Copyright (C) 2014
   <string name="Cover.Cover.Cover_cover_lets_go" comment="Cover.Cover.Cover_cover_lets_play&#10;lets_play">Let’s Go</string>
   <string name="Cover.Cover.Cover_cover_important_text" comment="how_we_eat_food_is_as_important_as_what_we_eat">How we eat food is as important as what we eat</string>
   <string name="Usage.Screen_1.Your_delivery_is_on" comment="your_delivery_is_on_its_way">Your delivery is on it’s way</string>
-  <string name="Usage.Screen_1.Track_order" comment="track_order">Track Order</string>
-  <string name="Usage.Screen_3.Cat_health" comment="cat_health">Cat Health</string>
+  <string name="Usage.Screen_1.Track_order" comment="track_order">Orden de seguimiento</string>
+  <string name="Usage.Screen_3.Cat_health" comment="cat_health">Salud de los gatos</string>
   <string name="Usage.Screen_3.Jija" comment="jija">Jija</string>
-  <string name="Usage.Screen_3.6_female" comment="6_female">6, Female</string>
-  <string name="Usage.Screen_3.Today_at_8_00_am" comment="today_at_8_00_am">Today at 8:00am</string>
-  <string name="Usage.Screen_3.Label" comment="transcript">Transcript</string>
-  <string name="Usage.Screen_3.Comment" comment="no_data_found">No data found</string>
-  <string name="Usage.Screen_4.Terms_of_service" comment="terms_of_service">Terms of service</string>
-  <string name="Usage.Screen_4.Signup" comment="signup">Signup</string>
-  <string name="Usage.Screen_4.Bring_clarity_to_you" comment="bring_clarity_to_your_thoughts">Bring clarity to your thoughts</string>
-  <string name="Usage.Screen_4.Your_thoughts" comment="your_thoughts">Your thoughts. </string>
-  <string name="Usage.Screen_4.Cleaner" comment="cleaner">Cleaner</string>
+  <string name="Usage.Screen_3.6_female" comment="6_female">6, Mujer</string>
+  <string name="Usage.Screen_3.Today_at_8_00_am" comment="today_at_8_00_am">Hoy\n{}:{}</string>
+  <string name="Usage.Screen_3.Label" comment="transcript">Transcripción</string>
+  <string name="Usage.Screen_3.Comment" comment="no_data_found">No se han encontrado datos</string>
+  <string name="Usage.Screen_4.Terms_of_service" comment="terms_of_service">Condiciones de servicio</string>
+  <string name="Usage.Screen_4.Signup" comment="signup">Inscríbase en</string>
+  <string name="Usage.Screen_4.Bring_clarity_to_you" comment="bring_clarity_to_your_thoughts">Aporta claridad a tus pensamientos</string>
+  <string name="Usage.Screen_4.Your_thoughts" comment="your_thoughts">Tus pensamientos. </string>
+  <string name="Usage.Screen_4.Cleaner" comment="cleaner">Más limpio</string>
 </resources>
