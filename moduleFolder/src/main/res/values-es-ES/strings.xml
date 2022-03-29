@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
 <resources>
-  <string name="button_new">REQUEST DEMO</string>
-  <string name="hello">HELLO WORLD</string>
-  <string name="some_key">NEW TEXT</string>
-  <string name="title_khatabook" comment="khatabook Title on the top of the screen" maxLength="10">Khatabook %s</string>
-  <string name="actions_and_modals__actions_and_modals" comment="actions_and_modals">Actions and Modals</string>
-  <string name="neqweqweqw">Новая строка</string>
+  <string name="welcome">Welcome!</string>
+  <string name="save_as">Save as...</string>
+  <string name="view">View</string>
+  <string name="about">About...</string>
+  <string name="about_me">About Me</string>
+  <string name="current_password">Current Password</string>
+  <string name="new_password">New Password</string>
+  <string name="confirm_password">Confirm New Password</string>
+  <string name="change_password">Change Password</string>
+  <string name="password_recovery">Password recovery</string>
+  <string name="password_reset_success">Your password has been reset successfully!</string>
+  <string name="read_message">Read message</string>
+  <string name="confirm_delete">Are you sure you want to delete this message?</string>
+  <string name="search_in_messages">Search in messages</string>
+  <string name="compose_message">Compose Message</string>
+  <string name="no_date">No date provided</string>
+  <string name="quick_start">Quick Start</string>
+  <string name="Cover.Cover.Welcome" comment="welcome">Welcome!</string>
+  <string name="Cover.Cover.How_does_one_go_abou" comment="how_does_one_go_about_making_the_impossible_po">How does one go about making the impossible, possible ?</string>
+  <string name="Cover.Cover.Cover_cover_message_sent" comment="test">Test</string>
+  <string name="Cover.Cover.Cover_cover_lets_go" comment="Cover.Cover.Cover_cover_lets_play&#10;lets_play">Let’s Go</string>
+  <string name="Cover.Cover.Cover_cover_important_text" comment="how_we_eat_food_is_as_important_as_what_we_eat">How we eat food is as important as what we eat</string>
+  <string name="Usage.Screen_1.Your_delivery_is_on" comment="your_delivery_is_on_its_way">Your delivery is on it’s way</string>
+  <string name="Usage.Screen_1.Track_order" comment="track_order">Orden de seguimiento</string>
+  <string name="Usage.Screen_3.Cat_health" comment="cat_health">Salud de los gatos</string>
+  <string name="Usage.Screen_3.Jija" comment="jija">Jija</string>
+  <string name="Usage.Screen_3.6_female" comment="6_female">6, Mujer</string>
+  <string name="Usage.Screen_3.Today_at_8_00_am" comment="today_at_8_00_am">Hoy\n{}:{}</string>
+  <string name="Usage.Screen_3.Label" comment="transcript">Transcripción</string>
+  <string name="Usage.Screen_3.Comment" comment="no_data_found">No se han encontrado datos</string>
+  <string name="Usage.Screen_4.Terms_of_service" comment="terms_of_service">Condiciones de servicio</string>
+  <string name="Usage.Screen_4.Signup" comment="signup">Inscríbase en</string>
+  <string name="Usage.Screen_4.Bring_clarity_to_you" comment="bring_clarity_to_your_thoughts">Aporta claridad a tus pensamientos</string>
+  <string name="Usage.Screen_4.Your_thoughts" comment="your_thoughts">Tus pensamientos. </string>
+  <string name="Usage.Screen_4.Cleaner" comment="cleaner">Más limpio</string>
 </resources>
