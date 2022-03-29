@@ -29,7 +29,7 @@ Copyright (C) 2014
   <string name="Cover.Cover.Cover_cover_important_text" comment="how_we_eat_food_is_as_important_as_what_we_eat">How we eat food is as important as what we eat</string>
   <string name="Usage.Screen_1.Your_delivery_is_on" comment="your_delivery_is_on_its_way">Your delivery is on it’s way</string>
   <string name="Usage.Screen_1.Track_order" comment="track_order">Track Order</string>
-  <string name="Usage.Screen_3.Cat_health" comment="cat_health">Cat Health</string>
+  <string name="Usage.World.Cat_health" comment="Usage.Screen_3.Cat_healthcat_health">Cat Health</string>
   <string name="Usage.Screen_3.Jija" comment="jija">Jija</string>
   <string name="Usage.Screen_3.6_female" comment="6_female">6, Female</string>
   <string name="Usage.Screen_3.Today_at_8_00_am" comment="today_at_8_00_am">Today at 8:00am</string>
